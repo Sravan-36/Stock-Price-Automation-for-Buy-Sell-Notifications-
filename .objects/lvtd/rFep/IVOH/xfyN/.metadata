@@ -1,0 +1,14 @@
+﻿{
+  "Name": "WEX Academy Inc.",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "xfyNCuVhfU-pM6oNXG05YA",
+  "Reference": "jN-qoBCC5EmUAZLjAsqczg/xfyNCuVhfU-pM6oNXG05YA",
+  "ParentRef": "jN-qoBCC5EmUAZLjAsqczg/IVOHuNN8rkOrz28yCyc9Cw",
+  "Created": "2024-12-05T07:15:10.3175542Z",
+  "Updated": "2024-12-05T07:15:10.3175542Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

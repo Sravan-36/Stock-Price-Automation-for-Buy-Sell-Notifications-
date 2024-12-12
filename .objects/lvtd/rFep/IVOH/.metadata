@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA Stock Market",
+  "Type": "Screen",
+  "Id": "IVOHuNN8rkOrz28yCyc9Cw",
+  "Reference": "jN-qoBCC5EmUAZLjAsqczg/IVOHuNN8rkOrz28yCyc9Cw",
+  "ParentRef": "jN-qoBCC5EmUAZLjAsqczg/rFepZ51abEShxFItnNImYQ",
+  "Created": "2024-12-05T07:09:47.2266538Z",
+  "Updated": "2024-12-05T07:09:47.2266538Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
